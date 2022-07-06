@@ -1,6 +1,7 @@
 body {
               background-image: url(images/donation9.jpg);
               border-image:space;
+              padding: 0px;
             }
 a{
               color: red;
@@ -17,4 +18,12 @@ main{
 .container{
               display: flex;
               justify-content: space-evenly;
+}
+.menu-container{
+              display:flex;
+              justify-content: space-evenly;
+              background-color: aquamarine;
+}
+.menu-items{
+              display:flex;
 }
