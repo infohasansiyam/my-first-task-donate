@@ -10,3 +10,11 @@ a{
 .container{
               color: brown;
 }
+main{
+              color: red;
+              background-color:black;
+}
+.container{
+              display: flex;
+              justify-content: space-evenly;
+}
