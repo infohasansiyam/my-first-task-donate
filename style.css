@@ -32,5 +32,29 @@ main{
               color: blue;
               cursor: pointer;
 }
+.backgraound-container{
+              color: black;
+              display:flex;
+              width: 100%;
+              align-items: center;
+              height: 100vh;
+}
+.tittle-text{
+              font-size: 60px;
+              font-weight: bold;
+              margin: 10px;
+}
+.text{
+              font-size: 25px;
+              margin: 10px;
+}
+
+
+
+
+
+
+
+
 
 
